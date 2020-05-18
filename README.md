@@ -1,10 +1,10 @@
 ## Deployment
 
-Project hosted on [Netlify](https://app.netlify.com/sites/gifted-khorana-e39b1a/overview)
+Project hosted on [Netlify](https://app.netlify.com/)
 
 ### MASTER branch
 
-All code merged to MASTER branch will be automatically built and available for viewing (after a couple of minutes) at https://gifted-khorana-e39b1a.netlify.com/
+All code merged to MASTER branch will be automatically built and available for viewing (after a couple of minutes) at [link here]
 
 ### DEVELOP branch
 
